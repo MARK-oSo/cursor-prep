@@ -8,7 +8,7 @@ import { defineConfig, globalIgnores } from 'eslint/config'
 
 // NOTE: eslint-plugin-react@7.x uses context.getFilename() removed in ESLint v10 — excluded until v8 releases
 export default defineConfig([
-  globalIgnores(['dist', 'node_modules', '*.cjs']),
+  globalIgnores(['dist', 'node_modules', '*.cjs', 'coverage']),
   {
     files: ['**/*.{ts,tsx}'],
     extends: [
