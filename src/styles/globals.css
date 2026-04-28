@@ -1,0 +1,23 @@
+@import '@fontsource-variable/geist';
+@import '@fontsource-variable/inter';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-bg-base text-text-primary font-sans antialiased;
+}
+
+::selection {
+  background: #7C5CFF;
+  color: #F5F5FA;
+}
