@@ -1,25 +1,25 @@
 :root {
   /* Backgrounds */
-  --color-bg-base: #0A0A0F;
+  --color-bg-base: #0a0a0f;
   --color-bg-surface: #111118;
-  --color-bg-elevated: #1A1A24;
+  --color-bg-elevated: #1a1a24;
 
   /* Borders */
-  --color-border-subtle: #1F1F2E;
-  --color-border-strong: #2A2A3D;
+  --color-border-subtle: #1f1f2e;
+  --color-border-strong: #2a2a3d;
 
   /* Text */
-  --color-text-primary: #F5F5FA;
-  --color-text-secondary: #A0A0B8;
-  --color-text-muted: #6B6B82;
+  --color-text-primary: #f5f5fa;
+  --color-text-secondary: #a0a0b8;
+  --color-text-muted: #6b6b82;
 
   /* Accents */
-  --color-accent-primary: #7C5CFF;
-  --color-accent-secondary: #22D3EE;
-  --color-accent-tertiary: #F472B6;
-  --color-accent-success: #10B981;
-  --color-accent-warning: #F59E0B;
+  --color-accent-primary: #7c5cff;
+  --color-accent-secondary: #22d3ee;
+  --color-accent-tertiary: #f472b6;
+  --color-accent-success: #10b981;
+  --color-accent-warning: #f59e0b;
 
   /* Gradients */
-  --gradient-hero: linear-gradient(135deg, #7C5CFF 0%, #22D3EE 100%);
+  --gradient-hero: linear-gradient(135deg, #7c5cff 0%, #22d3ee 100%);
 }

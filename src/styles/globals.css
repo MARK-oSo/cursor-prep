@@ -14,10 +14,10 @@ html {
 }
 
 body {
-  @apply bg-bg-base text-text-primary font-sans antialiased;
+  @apply bg-bg-base font-sans text-text-primary antialiased;
 }
 
 ::selection {
-  background: #7C5CFF;
-  color: #F5F5FA;
+  background: #7c5cff;
+  color: #f5f5fa;
 }
