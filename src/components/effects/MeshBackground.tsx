@@ -1,5 +1,5 @@
 import { cn } from '../../lib/cn';
-import { GlowOrb } from '../ui/GlowOrb';
+import { GlowOrb } from './GlowOrb';
 
 interface MeshBackgroundProps {
   className?: string;

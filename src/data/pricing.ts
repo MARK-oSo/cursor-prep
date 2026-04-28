@@ -13,7 +13,7 @@ export interface PricingPlan {
 export const pricingPlans: PricingPlan[] = [
   {
     id: 'free',
-    name: 'Gratis',
+    name: 'Explorar',
     priceMXN: 0,
     pricePeriod: 'mes',
     description: 'Para explorar la plataforma y medir tu punto de partida.',
