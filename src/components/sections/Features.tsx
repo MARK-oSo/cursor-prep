@@ -18,7 +18,7 @@ const iconMap: Record<Feature['iconName'], ComponentType<{ size?: number | strin
 
 export function Features() {
   return (
-    <section className="bg-bg-base py-24 px-6">
+    <section id="features" className="bg-bg-base py-24 px-6">
       <div className="mx-auto max-w-5xl">
         <ScrollReveal className="text-center mb-16">
           <h2 className="font-display font-bold text-text-primary text-h2">

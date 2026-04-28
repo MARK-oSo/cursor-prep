@@ -5,7 +5,7 @@ import { ScrollReveal } from '../effects/ScrollReveal';
 
 export function Subjects() {
   return (
-    <section className="bg-bg-base py-24 px-6">
+    <section id="subjects" className="bg-bg-base py-24 px-6">
       <div className="mx-auto max-w-6xl">
         <ScrollReveal className="text-center mb-16">
           <h2 className="font-display font-bold text-text-primary text-h2">
